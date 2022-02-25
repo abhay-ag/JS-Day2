@@ -1,9 +1,0 @@
-{
-    "manifest_version": 3,
-    "version" : "0.0.0.1",
-    "name":  "Random Password Generator",
-    "action":{
-        "default_popup":"./index.html",
-        "default_icon":"./icon.png"
-    }
-}
